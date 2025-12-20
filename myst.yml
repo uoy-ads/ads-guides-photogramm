@@ -1,0 +1,34 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  banner: ads_logo.png
+  title: "Close-Range Photogrammetry: A Guide to Good Practice"
+  subtitle: Archaeology Data Service & Digital Antiquity, 2011
+  description: This document serves as a guide to good practice for the documentation and archival of close-range photogrammetry (CRP) datasets and the additional derived products produced by digital photogrammetry in cultural heritage applications. This guide aims to build upon existing documentation standards and specifies basic elements of a CRP survey considered important to possible future users of the data.
+  keywords:
+    - archaeology
+    - photogrammetry
+  authors:
+    - name: Adam Barnes
+  license: CC-BY-4.0
+  open_access: true
+  doi: https://doi.org/10.5284/wngr-en16
+  github: uoy-ads/ads-guides-photogramm
+  toc:
+    - file: index.md
+    - file: content/1-Intro.md
+    - file: content/2-DataCollection.md
+    - file: content/3-Metadata.md
+    - file: content/4-Archiving.md
+    - file: content/5-CaseStudy.md
+    - file: content/6-Bibliography.md
+  exports:
+    - format: pdf
+site:
+  template: book-theme
+  options:
+    favicon: images/g2gp_signpost.png
+    logo: images/g2gp_signpost.png
+    logo_text: Guides to Good Practice
+  parts:
+    footer: footer.md
