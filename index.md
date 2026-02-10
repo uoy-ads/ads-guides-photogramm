@@ -8,3 +8,15 @@ The Author and Editor would like to thank the following for their contributions 
 * Paul Bryan, English Heritage
 
 All material in this guide is available [open access](https://archaeologydataservice.ac.uk/about/policies/use-access-to-data/) under a CC-BY 4.0 licence.
+
+```{image} ads_logo.png
+:height: 50px
+:align: left
+:alt: ADS Logo
+```
+
+```{image} hsds_blue_black.png
+:height: 50px
+:align: left
+:alt: HSDS Logo
+```
